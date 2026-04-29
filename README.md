@@ -28,7 +28,7 @@ The website presents a clean and minimal interface with sections for:
 
 ## 🌐 Live Website
 
-(Will be added after deployment)
+(https://koyalMaity007.github.io/Portfolio-website/)
 
 ## 📂 How to Run Locally
 
